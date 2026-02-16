@@ -17,7 +17,7 @@ A modern **Data Structures & Algorithms Visualizer** built to help students and 
 ## 🚀 Tech Stack
 
 - **Frontend:** React.js / HTML5 / CSS3 / JavaScript  
-- **Backend (if applicable):** Node.js / Flask (depending on repo code)  
+- **Backend (if applicable):** Node.js  
 - **Libraries:** D3.js, Chart.js, or Canvas (update based on repo)  
 
 ---
@@ -84,7 +84,7 @@ http://127.0.0.1:5000   # Flask
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! 🚀  
 
