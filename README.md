@@ -14,7 +14,7 @@ A modern **Data Structures & Algorithms Visualizer** built to help students and 
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend:** React.js / HTML5 / CSS3 / JavaScript  
 - **Backend (if applicable):** Node.js  
@@ -22,7 +22,7 @@ A modern **Data Structures & Algorithms Visualizer** built to help students and 
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 Follow these steps to set up the project locally:
 
