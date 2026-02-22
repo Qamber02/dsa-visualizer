@@ -4,7 +4,7 @@ A modern **Data Structures & Algorithms Visualizer** built to help students and 
 
 ---
 
-## ✨ Features
+##  Features
 
 -  **Step-by-step Visualization** of popular algorithms.  
 - 📈 Supports **sorting, searching, recursion, graph traversal, and more**.  
