@@ -10,7 +10,7 @@ A modern **Data Structures & Algorithms Visualizer** built to help students and 
 -  Supports **sorting, searching, recursion, graph traversal, and more**.  
 -  **Interactive UI** with customizable speed and size.  
 -  Clean, modular, and extensible codebase.  
-- 🌐 Works across platforms.  
+-  Works across platforms.  
 
 ---
 
