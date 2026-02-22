@@ -1,4 +1,4 @@
-# 📊 DSA Visualizer
+#  DSA Visualizer
 
 A modern **Data Structures & Algorithms Visualizer** built to help students and developers **understand complex algorithms through interactive visualizations**.
 
@@ -6,7 +6,7 @@ A modern **Data Structures & Algorithms Visualizer** built to help students and 
 
 ## ✨ Features
 
-- 🔍 **Step-by-step Visualization** of popular algorithms.  
+-  **Step-by-step Visualization** of popular algorithms.  
 - 📈 Supports **sorting, searching, recursion, graph traversal, and more**.  
 - 🎨 **Interactive UI** with customizable speed and size.  
 - 🧩 Clean, modular, and extensible codebase.  
